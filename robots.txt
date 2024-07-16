@@ -1,4 +1,4 @@
 User-agent: *
 Disallow :
 Allow : 
-Sitemap: https://programmergaurav.me/sitemap.xml
+Sitemap: https://programmerSanskar.me/sitemap.xml
